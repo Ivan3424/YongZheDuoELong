@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1530948234,
+	"version": 1530956334,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -113,6 +113,12 @@
 		"media/fire.ogg",
 		"media/lightning.ogg",
 		"media/walk.ogg",
-		"media/bgm.ogg"
+		"media/bgm.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
 	]
 }
