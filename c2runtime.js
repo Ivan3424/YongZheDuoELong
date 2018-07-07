@@ -31115,7 +31115,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Touch.prototype.cnds.OnTouchStart,
 	cr.system_object.prototype.cnds.For,
 	cr.plugins_.Touch.prototype.exps.TouchCount,
-	cr.plugins_.Touch.prototype.exps.YForID,
+	cr.plugins_.Touch.prototype.exps.YAt,
 	cr.system_object.prototype.exps.loopindex,
 	cr.behaviors.Platform.prototype.acts.SimulateControl,
 	cr.plugins_.Touch.prototype.cnds.IsInTouch,
